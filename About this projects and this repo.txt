@@ -1,3 +1,10 @@
+This GitHub repo is a growing collection of my projects and documentation that I have made during my studies in Metropolia.
+
+I am Kristófer Knutesn and these are my projects.
+
+
+
+
 Zumo robot:
 
 This was a smart system project where C programming was used to program a Pololu Zumo robot to complete a speed-run course and a zumo wrestling 
