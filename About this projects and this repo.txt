@@ -19,3 +19,5 @@ This is a project that was done in Unity. The plan was to make a stealth game wi
 This project used SQL, Unity and C# programming.
 All assets (game art, UI, textures and charactes) were made from scratch along with the music and SFX.
 I have made a video of the game that is downloadable in the game folder.
+
+Alongside the video I have put some sample C# code that is part of the game mechanics.
