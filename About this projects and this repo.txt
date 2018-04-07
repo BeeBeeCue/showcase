@@ -1,0 +1,10 @@
+Zumo robot:
+
+This was a smart system project where C programming was used to program a Pololu Zumo robot to complete a speed-run course and a zumo wrestling 
+match. This project was done successfully and in this git repo there are project files that give an example of my codes, comments and structure
+alongside the zumo documentation report that was written after this project.
+The documentation is on pdf format.
+The code is on C format, it can be read by common text readers but Visual Studio or PSoC creator is recommended.
+
+Here is a link to the robot.
+(https://www.pololu.com/category/129/zumo-robots-and-accessories)
