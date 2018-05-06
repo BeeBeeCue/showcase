@@ -28,3 +28,12 @@ All assets (game art, UI, textures and charactes) were made from scratch along w
 I have made a video of the game that is downloadable in the game folder.
 
 Alongside the video I have put some sample C# code that is part of the game mechanics.
+
+
+
+SteemY Application:
+
+This is a project that was done in Mobile Solution, in Android Studio. The goal was to make a android application that utilizes sensor data from a 
+Thingsee (thingsee.com) device. Data would be sent from the Thingsee device and to the Tingsee cloud. Then data would be retrieved from the cloud and 
+visualized in the application, alongside GPS data.
+The application was a success but the Thingsee device and the Thingsee cloud was not so reliable nor accurate, but the application itself works fine.

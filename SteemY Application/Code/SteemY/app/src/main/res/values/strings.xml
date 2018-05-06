@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SteemY</string>
+    <string name="pig">pig</string>
+    <string name="steemy">SteemY</string>
+    <string name="status">Sauna Status</string>
+    <string name="temp">Temp</string>
+    <string name="map">Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="cabin">cabin</string>
+</resources>

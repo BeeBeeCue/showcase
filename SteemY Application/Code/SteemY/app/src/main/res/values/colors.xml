@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#74a1071b</color>
+    <color name="logoColor">#8379f3</color>
+    <color name="mainBack">#86ecf5</color>
+
+    <color name="darkRed">#a1071b</color>
+    <color name="lightBlue">#839cb5</color>
+    <color name="mediumBlue">#3f5a7d</color>
+    <color name="darkBlue">#223f5e</color>
+    <color name="offWhite">#ece9df</color>
+
+    <color name="a1">#00575e</color>
+    <color name="a2">#009394</color>
+    <color name="a3">#f3f0db</color>
+    <color name="a4">#444345</color>
+    <color name="a5">#fd562a</color>
+
+    <color name="b1">#2b3a42</color>
+    <color name="b2">#3f5665</color>
+    <color name="b3">#bcd2dd</color>
+    <color name="b4">#ededee</color>
+    <color name="b5">#fd520e</color>
+</resources>
